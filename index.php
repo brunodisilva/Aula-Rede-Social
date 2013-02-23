@@ -37,9 +37,6 @@ include('includes/header.php'); ?>
                 <?php 
                 new Notificacoes;
                 $cache = Notificacoes::$cache;
-                // echo '<pre style="font-size:12px">';
-                // print_r(Notificacoes::$dados);
-                // exit;
                 ?> 
 
                 <div class="blocos" id="notificacoes">
