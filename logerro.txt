@@ -45,3 +45,10 @@ erro: CAUGHT EXCEPTION no arquivo: D:\wamp\wamp\www\aula-rede-social\classes\DB.
 erro: CAUGHT EXCEPTION no arquivo: C:\Program Files\EasyPHP-12.1\www\aula-rede-social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/10/12 10:26:05
 erro: CAUGHT EXCEPTION no arquivo: C:\Program Files\EasyPHP-12.1\www\aula-rede-social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/10/12 10:26:09
 erro: CAUGHT EXCEPTION no arquivo: /var/www/aula-rede-social/classes/DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:23/02/13 09:30:52
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:51:49
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:52:10
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:52:40
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:52:45
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:53:53
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:54:13
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\Aula-Rede-Social\classes\DB.class.php ( linha 6 ) :: IP(127.0.0.1) data:29/03/14 01:54:53
